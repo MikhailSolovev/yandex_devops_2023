@@ -1,0 +1,35 @@
+{
+  "process": {
+    "path": "/Users/ion_mion/Library/Caches/JetBrains/GoLand2023.2/tmp/GoLand/___go_build_main_go__1_",
+    "descriptor": {
+      "soft_max": 61440,
+      "hard_max": 9223372036854775807
+    },
+    "mem": {
+      "heap": {
+        "alloc": 103744,
+        "sys": 3866624,
+        "inuse": 368640,
+        "idle": 3497984,
+        "released": 3497984
+      },
+      "stack": {
+        "sys": 327680,
+        "inuse": 327680
+      },
+      "sys": 7506960,
+      "alloc": 103744,
+      "total_alloc": 103744
+    }
+  },
+  "system": {
+    "processor": {
+      "num_cpu": 8
+    },
+    "mem": {
+      "active": 2821210112,
+      "used": 14245068800,
+      "total": 17179869184
+    }
+  }
+}

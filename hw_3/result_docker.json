@@ -1,0 +1,35 @@
+{
+  "process": {
+    "path": "/app/app",
+    "descriptor": {
+      "soft_max": 1048576,
+      "hard_max": 1048576
+    },
+    "mem": {
+      "heap": {
+        "alloc": 51824,
+        "sys": 3899392,
+        "inuse": 270336,
+        "idle": 3629056,
+        "released": 3596288
+      },
+      "stack": {
+        "sys": 294912,
+        "inuse": 294912
+      },
+      "sys": 7445520,
+      "alloc": 51824,
+      "total_alloc": 51824
+    }
+  },
+  "system": {
+    "processor": {
+      "num_cpu": 4
+    },
+    "mem": {
+      "active": 1028816896,
+      "used": 920727552,
+      "total": 8232951808
+    }
+  }
+}
